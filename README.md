@@ -19,7 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 HTTP - Session 3
 
 You can watch a recording of the application in action below:
-<video width="320" height="240" controls>
-  <source src="recording.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video width="320" height="240" src="recording.mp4" controls />
