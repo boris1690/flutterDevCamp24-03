@@ -19,4 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 HTTP - Session 3
 
 You can watch a recording of the application in action below:
-<video width="320" height="240" src="recording.mp4" />
+
+https://github.com/user-attachments/assets/f9b3a7b9-029f-4670-9c88-c725784b7c8e
+
