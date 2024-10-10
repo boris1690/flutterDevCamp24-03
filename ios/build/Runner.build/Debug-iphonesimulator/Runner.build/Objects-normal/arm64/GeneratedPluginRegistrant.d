@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/borisninja/Documents/Projects/flutterDevCamp2024/session3/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h
